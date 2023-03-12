@@ -3,7 +3,7 @@
 - open the main page of the repository
 - click on the green `code` button and copy the link
 - open terminal and navigate to the folder where you want to copy the project to
-- run ```git clone https://github.com/kirilsvoloshins/mobx-local-solved.git```, where the copied link is pasted
+- run ```git clone https://github.com/kirilsvoloshins/mobx-local-solved.git``` (has copied link)
 - navigate to the ```mobx-local-solved``` folder via terminal
 - run ```npm install```
 - run ```npm run dev``` to launch a dev server
