@@ -1,0 +1,29 @@
+.counter {
+    width: 4em;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    gap: 0.2em;
+    padding: 0.6em 0.3em;
+    border: 1px solid rgb(133, 132, 132);
+    border-radius: 5px;
+    background-color: rgb(224, 217, 217);
+  }
+  
+  .counter button {
+    width: 2em;
+    height: 1.5em;
+    font-size: 0.8em;
+  }
+  
+  .counterId {
+    font-size: 0.8em;
+  }
+  
+  .updateInfo,
+  .history {
+    font-size: 0.6em;
+    word-wrap: break-word;
+  }
+  

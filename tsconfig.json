@@ -1,0 +1,22 @@
+{
+  "include": [
+    "./src/**/*"
+  ],
+  "compilerOptions": {
+    "strict": true,
+    "esModuleInterop": true,
+    "lib": [
+      "dom",
+      "es2015"
+    ],
+    "jsx": "react-jsx",
+    "target": "esnext",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+  },
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    }
+  ]
+}
