@@ -1,4 +1,4 @@
-# mobx-local-solved
+# MobX 2 Lecture local debugging example
 
 - open the main page of the repository
 - click on the green `code` button and copy the link
